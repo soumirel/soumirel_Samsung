@@ -1,8 +1,15 @@
 package ru.soumirel.ep0221;
 
-public class Main {
+// | - перенаправление потока
+// > - запись потока в файл с нуля
+// >> - запись потока в файл
 
-    public static void main(String[] args) {
+import java.util.Scanner;
+
+public class lesson_1 {
+
+    public static void main(String[] args)
+    {
 	    System.out.println("Hello, World!");
 
         int a = 5;
