@@ -23,7 +23,7 @@ import org.w3c.dom.ls.LSOutput;
 
 import java.util.Scanner;
 
-public class lesson_2 {
+public class l2 {
 
     public static void main(String[] args) {
 
