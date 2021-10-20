@@ -19,7 +19,7 @@ this - ссылка на самого себя
 public class l3 {
     public static void main(String[] args){
 
-        l3_Person person = new l3_Person("Lolek");
+        Person person = new Person("Lolek");
         System.out.println(person.getName());
         System.out.println(person.getName().length());
         person.setName("FirstPerson");
