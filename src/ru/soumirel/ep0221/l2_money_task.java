@@ -2,7 +2,7 @@ package ru.soumirel.ep0221;
 
 import java.util.Scanner;
 
-public class money_task_lesson_2 {
+public class l2_money_task {
     public static void main(String[] args) {
 
         //vals
